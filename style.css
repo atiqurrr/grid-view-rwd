@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: blueviolet;
+  padding: 10px;
+  text-align: center;
+  color: aliceblue;
+}
+
+.nav-menu {
+  background-color: grey;
+  padding: 1% 5%;
+}
+.nav-menu a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+  padding: 10px;
+  display: block;
+}
+
+.main {
+  padding: 1% 5%;
+  background-color: deeppink;
+}
+
+.aside {
+  background-color: gold;
+  padding: 1% 5%;
+  text-align: center;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 1% 0;
+}
